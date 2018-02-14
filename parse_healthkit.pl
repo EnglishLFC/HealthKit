@@ -51,5 +51,5 @@ __END__
 
 =head1 COPYRIGHT
 
-  (c) Cisco Systems 2017
+  (c) Nigel Houghton 2017
 
