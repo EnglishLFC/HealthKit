@@ -47,7 +47,7 @@ __END__
 
 =head1 AUTHOR
 
-  Nigel Houghton <nhoughto@cisco.com>
+  Nigel Houghton <wutang@warpten.net>
 
 =head1 COPYRIGHT
 
